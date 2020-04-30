@@ -1,5 +1,5 @@
 # cleanMyDownloads
 
-## Pre-Release v0.0.1
+## Release v0.1.0
 
 * Initial script creation
